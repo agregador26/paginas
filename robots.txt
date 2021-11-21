@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://agregador26.github.io/paginas/sitemap.xml
